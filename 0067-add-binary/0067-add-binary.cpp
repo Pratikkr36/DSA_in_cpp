@@ -13,7 +13,7 @@ public:
         int carry = 0;
         string ans;
 
-        for(int i=max(m,n)-1; i>=0; i--){
+        for(int i=a.size()-1; i>=0; i--){
             int sum = (a[i]-'0')+(b[i]-'0') + carry;
             ans = to_string(sum%2)+ans;
             carry = sum/2;
