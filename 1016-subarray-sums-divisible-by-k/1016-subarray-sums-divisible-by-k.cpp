@@ -3,7 +3,7 @@ public:
     int subarraysDivByK(vector<int>& nums, int k) {
         int n = nums.size();
         int count = 0;
-        map<int, int> mpp;
+        vector<int>mpp(k,0);
         int sum = 0;
         mpp[0] = 1;
         for(int i=0; i<n; i++){
