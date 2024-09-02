@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0628-maximum-product-of-three-numbers) |
 ## Math
 |  |
@@ -47,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0067-add-binary) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
