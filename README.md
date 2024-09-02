@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0079-word-search) |
 | [0560-subarray-sum-equals-k](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -59,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1016-subarray-sums-divisible-by-k) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
