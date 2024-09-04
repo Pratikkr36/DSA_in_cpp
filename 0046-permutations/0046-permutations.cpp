@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-    void function(vector<int>&nums, vector<vector<int>>&result, vector<int>&ds, vector<int>&freq){
+    void function(vector<int>&nums, vector<vector<int>>&result, vector<int>&ds, int freq[]){
         if(ds.size() == nums.size()){
             result.push_back(ds);
             return;
@@ -20,7 +20,8 @@ public:
     vector<vector<int>> permute(vector<int>& nums) {
         vector<vector<int>>result;
         vector<int>ds;
-        vector<int>freq(nums.size(), 0);
+        int freq[nums.size()];
+        for(int i=0; i<nums.size(); i++) freq[i]=0;
         function(nums, result, ds, freq);
         return result;
     }
