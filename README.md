@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0079-word-search) |
+| [0151-reverse-words-in-a-string](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0151-reverse-words-in-a-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Bit Manipulation
 |  |
@@ -85,4 +86,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0151-reverse-words-in-a-string](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
