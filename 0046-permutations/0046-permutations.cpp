@@ -7,7 +7,7 @@ public:
             return;
         }
         for(int i=0; i<nums.size(); i++){
-            if(freq[i]==0){
+            if(!freq[i]){
                 ds.push_back(nums[i]);
                 freq[i] = 1;
                 function(nums, result, ds, freq);
