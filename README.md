@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0033-search-in-rotated-sorted-array) |
+| [0041-first-missing-positive](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0079-word-search) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0560-subarray-sum-equals-k) |
