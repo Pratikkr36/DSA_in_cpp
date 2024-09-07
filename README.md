@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0079-word-search) |
+| [0496-next-greater-element-i](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1016-subarray-sums-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Pratikkr36/DSA_in_C-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -115,4 +117,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
