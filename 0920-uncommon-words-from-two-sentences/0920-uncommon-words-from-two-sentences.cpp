@@ -1,29 +1,26 @@
 class Solution {
 public:
     vector<string> uncommonFromSentences(string s1, string s2) {
-        unordered_map<string, int> mpp;
+        unordered_map<string,int> mp;
         vector<string> ans;
-        
-        // Helper lambda function to split words and count occurrences in the map
-        auto countWords = [&](string sentence) {
-            stringstream ss(sentence);
-            string word;
-            while (ss >> word) {
-                mpp[word]++;
+        string temp = s1 + ' ' + s2;
+        string p="";
+
+        for(int i=0;i<temp.size();i++){
+            if(temp[i] == ' '){
+                mp[p]++;
+                p="";
             }
-        };
-        
-        // Count words in both sentences
-        countWords(s1);
-        countWords(s2);
-        
-        // Collect uncommon words
-        for (auto& pair : mpp) {
-            if (pair.second == 1) { // Uncommon words appear only once
-                ans.push_back(pair.first);
+            else{
+                p+= temp[i];
             }
         }
-        
+        mp[p]++;
+        for(auto &it: mp){
+            if(it.second == 1){
+                ans.push_back(it.first);
+            }
+        }
         return ans;
     }
 };
