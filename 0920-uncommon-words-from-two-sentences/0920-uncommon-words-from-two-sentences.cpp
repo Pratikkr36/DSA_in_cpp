@@ -16,7 +16,7 @@ public:
             }
         }
         mp[p]++;
-        for(auto &it: mp){
+        for(auto it: mp){
             if(it.second == 1){
                 ans.push_back(it.first);
             }
