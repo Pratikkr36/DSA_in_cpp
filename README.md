@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0067-add-binary) |
+| [0227-basic-calculator-ii](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0227-basic-calculator-ii) |
 | [0539-minimum-time-difference](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0628-maximum-product-of-three-numbers) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0151-reverse-words-in-a-string) |
+| [0227-basic-calculator-ii](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0227-basic-calculator-ii](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0227-basic-calculator-ii) |
 | [0496-next-greater-element-i](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
