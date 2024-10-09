@@ -6,9 +6,7 @@ public:
     reverse(nums, 0, n-k-1);
     reverse(nums, n-k, n-1);
     reverse(nums, 0, n-1);
-    for(int i=0; i<n; i++){
-        cout<<nums[i]<<" ";
-    }
+    
     }
     void reverse(vector<int> &nums, int left, int right){
     int n = nums.size();
