@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0227-basic-calculator-ii) |
 | [0539-minimum-time-difference](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0628-maximum-product-of-three-numbers) |
+| [1013-fibonacci-number](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1013-fibonacci-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Sorting
 |  |
@@ -167,4 +168,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0179-largest-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
