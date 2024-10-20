@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0189-rotate-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0079-word-search) |
 ## Linked List
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0074-search-a-2d-matrix) |
 ## Stack
 |  |
 | ------- |
