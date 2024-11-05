@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Pratikkr36/DSA_in_C-/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Bit Manipulation
 |  |
 | ------- |
