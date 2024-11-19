@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Pratikkr36/DSA_in_C-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1256-rank-transform-of-an-array](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1256-rank-transform-of-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Pratikkr36/DSA_in_C-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Prefix Sum
 |  |
@@ -194,4 +196,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1755-defuse-the-bomb](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1755-defuse-the-bomb) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
