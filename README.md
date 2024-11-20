@@ -197,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1755-defuse-the-bomb](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
