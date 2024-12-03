@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0189-rotate-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Binary Search
 |  |
 | ------- |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0197-rising-temperature](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0584-find-customer-referee) |
+## String Matching
+|  |
+| ------- |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
