@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0079-word-search) |
+| [0136-single-number](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0219-contains-duplicate-ii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0231-power-of-two) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2323-minimum-bit-flips-to-convert-number) |
