@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0171-excel-sheet-column-number) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1013-fibonacci-number) |
 ## Memoization
