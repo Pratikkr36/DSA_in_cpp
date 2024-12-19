@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0078-subsets) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -242,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
