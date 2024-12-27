@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2232-adding-spaces-to-a-string](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2232-adding-spaces-to-a-string) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Pratikkr36/DSA_in_C-/tree/master/3291-find-if-array-can-be-sorted) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Pratikkr36/DSA_in_C-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0231-power-of-two) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Pratikkr36/DSA_in_C-/tree/master/3291-find-if-array-can-be-sorted) |
 ## Simulation
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Pratikkr36/DSA_in_C-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Prefix Sum
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Greedy
 |  |
 | ------- |
