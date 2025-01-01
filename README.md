@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1940-maximum-xor-for-each-query](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1940-maximum-xor-for-each-query) |
 ## Backtracking
 |  |
