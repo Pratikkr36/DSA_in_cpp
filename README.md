@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0227-basic-calculator-ii) |
 | [0496-next-greater-element-i](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0496-next-greater-element-i) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0179-largest-number) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Dynamic Programming
 |  |
 | ------- |
