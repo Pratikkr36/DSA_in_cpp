@@ -21,7 +21,6 @@ public:
 
             if(close<0)return false;
         }
-
         return true;
     }
 };
