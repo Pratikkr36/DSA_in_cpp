@@ -2,18 +2,17 @@ class Solution {
 public:
     int minimumLength(string s) {
         int n = s.size();
-        int count=0;
-        unordered_map<char, int>mpp;
-        for(int i=0; i<n; i++){
-            mpp[s[i]]++;
+        int ans=0;
+        vector<int>count(26);
+        for(char c:s){
+            count[c-'a']++;
         }
-        for(auto&alpha:mpp){
-            if(alpha.second%2==0){
-                count += 2;
-            }else{
-                count++;
-            }
+        for(int i=0; i<26; i++){
+            ans += (count[i]%2 ? 1 : (count[i] ? 2 : 0));
+            // if(count[i]%2 != 0)ans+=1;
+            // else if(count[i] != 0)ans+=2;
+            // else ans+=0;
         }
-        return count;
+        return ans;
     }
 };
