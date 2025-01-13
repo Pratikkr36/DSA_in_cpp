@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0237-delete-node-in-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Pratikkr36/DSA_in_C-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
