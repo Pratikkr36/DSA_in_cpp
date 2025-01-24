@@ -15,16 +15,14 @@ public:
             slow = slow->next;
             fast = fast->next->next;
             if(slow == fast){
-                break;
+                fast = head;
+                while(fast != slow){
+                    fast = fast->next;
+                    slow = slow->next;
+                }
+                return slow;
             }
         }
-        if(!fast || !fast->next)return NULL;
-
-        fast = head;
-        while(fast != slow){
-            fast = fast->next;
-            slow = slow->next;
-        }
-        return slow;
+        return NULL;
     }
 };
