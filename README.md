@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1972-rotating-the-box) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2179-most-beautiful-item-for-each-query) |
