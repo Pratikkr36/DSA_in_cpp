@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2448-count-number-of-bad-pairs](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2448-count-number-of-bad-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Pratikkr36/DSA_in_C-/tree/master/3291-find-if-array-can-be-sorted) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1013-fibonacci-number) |
+| [2448-count-number-of-bad-pairs](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2448-count-number-of-bad-pairs) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Sorting
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2434-design-a-number-container-system](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2448-count-number-of-bad-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Pratikkr36/DSA_in_C-/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2448-count-number-of-bad-pairs](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2448-count-number-of-bad-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Pratikkr36/DSA_in_C-/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy
 |  |
