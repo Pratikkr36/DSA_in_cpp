@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1160-letter-tile-possibilities](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1160-letter-tile-possibilities) |
 | [1524-string-matching-in-an-array](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0560-subarray-sum-equals-k) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1160-letter-tile-possibilities](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1160-letter-tile-possibilities) |
 | [1256-rank-transform-of-an-array](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0079-word-search) |
+| [1160-letter-tile-possibilities](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Matrix
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1160-letter-tile-possibilities](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1364-tuple-with-same-product) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
