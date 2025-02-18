@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Pratikkr36/DSA_in_C-/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Pratikkr36/DSA_in_C-/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3447-clear-digits](https://github.com/Pratikkr36/DSA_in_C-/tree/master/3447-clear-digits) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0079-word-search) |
 | [1160-letter-tile-possibilities](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Matrix
 |  |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/Pratikkr36/DSA_in_C-/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0179-largest-number) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2509-minimize-xor) |
 ## Dynamic Programming
 |  |
