@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1160-letter-tile-possibilities](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0079-word-search) |
 | [1160-letter-tile-possibilities](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2802-find-the-punishment-number-of-an-integer) |
