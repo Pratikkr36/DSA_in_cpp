@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0543-diameter-of-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -21,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0543-diameter-of-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0226-invert-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -35,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0543-diameter-of-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -191,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1160-letter-tile-possibilities) |
 | [1256-rank-transform-of-an-array](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -350,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
