@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/Pratikkr36/DSA_in_C-/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Pratikkr36/DSA_in_C-/tree/master/3291-find-if-array-can-be-sorted) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Pratikkr36/DSA_in_C-/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Pratikkr36/DSA_in_C-/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2649-count-total-number-of-colored-cells](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3227-find-missing-and-repeated-values](https://github.com/Pratikkr36/DSA_in_C-/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/Pratikkr36/DSA_in_C-/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Pratikkr36/DSA_in_C-/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Pratikkr36/DSA_in_C-/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Pratikkr36/DSA_in_C-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0079-word-search) |
 | [1972-rotating-the-box](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1972-rotating-the-box) |
+| [3227-find-missing-and-repeated-values](https://github.com/Pratikkr36/DSA_in_C-/tree/master/3227-find-missing-and-repeated-values) |
 ## Linked List
 |  |
 | ------- |
