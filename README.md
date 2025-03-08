@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Pratikkr36/DSA_in_C-/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Pratikkr36/DSA_in_C-/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3447-clear-digits](https://github.com/Pratikkr36/DSA_in_C-/tree/master/3447-clear-digits) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0219-contains-duplicate-ii) |
 | [1755-defuse-the-bomb](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1755-defuse-the-bomb) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Database
 |  |
