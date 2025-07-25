@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0496-next-greater-element-i) |
 | [0539-minimum-time-difference](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0539-minimum-time-difference) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0142-linked-list-cycle-ii) |
+| [0217-contains-duplicate](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0496-next-greater-element-i) |
