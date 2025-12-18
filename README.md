@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0204-count-primes) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
