@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0041-first-missing-positive) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0142-linked-list-cycle-ii) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0179-largest-number) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2456-construct-smallest-number-from-di-string) |
