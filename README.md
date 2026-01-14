@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0496-next-greater-element-i) |
 | [0539-minimum-time-difference](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0560-subarray-sum-equals-k) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0539-minimum-time-difference) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0977-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1256-rank-transform-of-an-array) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0202-happy-number) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0908-middle-of-the-linked-list) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0227-basic-calculator-ii](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0227-basic-calculator-ii) |
 | [0496-next-greater-element-i](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0496-next-greater-element-i) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0844-backspace-string-compare) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -372,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0496-next-greater-element-i) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Number Theory
 |  |
@@ -396,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0179-largest-number) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/Pratikkr36/DSA_in_C-/tree/master/2509-minimize-xor) |
