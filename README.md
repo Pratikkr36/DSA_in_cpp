@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0876-middle-of-the-linked-list) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0876-middle-of-the-linked-list) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0227-basic-calculator-ii](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0227-basic-calculator-ii) |
+| [0234-palindrome-linked-list](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0844-backspace-string-compare) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
