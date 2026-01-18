@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0079-word-search) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pratikkr36/DSA_in_C-/tree/master/0145-binary-tree-postorder-traversal) |
