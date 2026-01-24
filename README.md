@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1755-defuse-the-bomb](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1755-defuse-the-bomb) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Pratikkr36/DSA_in_C-/tree/master/1786-count-the-number-of-consistent-strings) |
